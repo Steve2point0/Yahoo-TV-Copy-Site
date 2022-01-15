@@ -1,0 +1,29 @@
+.hero {
+    display: flex;
+    text-align: center;
+}
+
+p {
+    font-size: xx-large;
+}
+
+video {
+    object-fit: fill;
+}
+
+.vid1 {
+    flex: 1;
+    margin: auto 0;
+    width: 45vw;
+    box-shadow: 10px 10px 5px #d3d3d3;
+}
+
+.vid2 {
+    flex: 2;
+    margin: auto 0;
+    width: 45vw;
+    box-shadow: 10px 10px 5px #d3d3d3;
+}
+
+
+
